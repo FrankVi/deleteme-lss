@@ -7,5 +7,9 @@ git:
 install:
   - true
 
+os:
+  - linux
+  - osx
+
 script:
   - ./gradlew check
