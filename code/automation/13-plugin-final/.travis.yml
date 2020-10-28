@@ -1,2 +1,5 @@
 language: java
-[sksnna 2,3,33333,4]
+
+git:
+    depth: false
+    autocrlf: input
